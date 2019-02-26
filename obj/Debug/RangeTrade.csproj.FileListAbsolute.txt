@@ -1,0 +1,7 @@
+C:\Users\Colin\Documents\VisualStudioProjects\RangeTrade\RangeTrade\bin\Debug\RangeTrade.exe.config
+C:\Users\Colin\Documents\VisualStudioProjects\RangeTrade\RangeTrade\bin\Debug\RangeTrade.exe
+C:\Users\Colin\Documents\VisualStudioProjects\RangeTrade\RangeTrade\bin\Debug\RangeTrade.pdb
+C:\Users\Colin\Documents\VisualStudioProjects\RangeTrade\RangeTrade\obj\Debug\RangeTrade.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\VisualStudioProjects\RangeTrade\RangeTrade\obj\Debug\RangeTrade.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\VisualStudioProjects\RangeTrade\RangeTrade\obj\Debug\RangeTrade.exe
+C:\Users\Colin\Documents\VisualStudioProjects\RangeTrade\RangeTrade\obj\Debug\RangeTrade.pdb
