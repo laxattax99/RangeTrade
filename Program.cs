@@ -26,7 +26,7 @@ namespace RangeTrade
                 string value = stocksAndBounds.ElementAt(rand.Next(0, stocksAndBounds.Count)).Key;
                 Tuple<double, double> bounds = stocksAndBounds[value];
 
-                Console.WriteLine($"==========={value}===========\n");
+                Console.WriteLine($"============{value}============\n");
 
                 int number = rand2.Next(50, 400);
 
